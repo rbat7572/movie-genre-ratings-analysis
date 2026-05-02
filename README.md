@@ -53,7 +53,7 @@ Extracted release year from the release date
 
 ### 1. Average Rating by Genre  
 
-![Average Rating](graphs/avg_rating_by_genre.png)
+![](graphs/avg_rating_by_genre.png)
 
 This chart compares the average rating across genres to identify which types of movies tend to perform best
 
@@ -63,7 +63,7 @@ Insight Genres such as drama and documentary tend to receive higher average rati
 
 ### 2. Rating Distribution by Genre  
 
-![Rating Distribution](graphs/rating_distribution.png)
+![](rating_distribution.png)
 
 A boxplot is used to examine how ratings vary within each genre
 
@@ -73,7 +73,7 @@ Insight Some genres like action and comedy show wider variation, meaning audienc
 
 ### 3. Highly Rated Movies by Genre  
 
-![Highly Rated](graphs/highly_rated_genres.png)
+![](highly_rated_genres.png)
 
 This analysis focuses on movies with ratings of 7.5 or higher
 
@@ -83,7 +83,7 @@ Insight Certain genres appear more frequently among highly rated films, indicati
 
 ### 4. Ratings Over Time  
 
-![Ratings Over Time](graphs/ratings_over_time.png)
+![](ratings_over_time.png)
 
 A time series plot shows how average ratings for major genres have changed since 1980
 
