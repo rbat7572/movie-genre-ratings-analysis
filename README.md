@@ -53,7 +53,7 @@ Extracted release year from the release date
 
 ### 1. Average Rating by Genre  
 
-![](graphs/avg_rating_by_genre.png)
+![Average Rating by Genre](graphs/avg_rating_by_genre.png)
 
 This chart compares the average rating across genres to identify which types of movies tend to perform best
 
