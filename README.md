@@ -114,8 +114,24 @@ The analysis shows that movie genre plays a meaningful role in audience receptio
 
 ---
 
-## How to Reproduce
+How to Run the Analysis
+Download the dataset from Kaggle:
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+Extract the file and locate:
+movies_metadata.csv
+Place the CSV file in your working directory (same folder as analysis.R)
+Open the script in RStudio:
+analysis.R
+Install required packages if needed:
+install.packages(c("tidyverse", "jsonlite"))
+Run the script
+The script will:
+Clean the dataset
+Analyze ratings by genre
+Generate visualizations
+Save charts as PNG files in a graphs folder
+Note on Dataset Size
 
-Download the dataset from Kaggle  
-Place `movies_metadata.csv` in your working directory  
-Run `movie_analysis.R` in RStudio  
+The original dataset file movies_metadata.csv is not included in this repository because it exceeds GitHub’s file size limits.
+
+Please download it directly from Kaggle using the link above before running the analysis.
